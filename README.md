@@ -1,5 +1,7 @@
 # PDF Text Extractor API
 
+[![Olaverse API](https://img.shields.io/badge/Olaverse-API%20Doc-blue?style=flat-square)](https://www.olaverse.co.uk/pdf-extractor-api) [![Try on Vibeland](https://img.shields.io/badge/Vibeland-Try%20Live-orange?style=flat-square)](https://www.vibeland.co.uk/tools/pdf-extractor)
+
 A FastAPI-based REST API that extracts text from PDF files using multiple extraction methods.
 
 ## Features
